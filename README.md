@@ -78,13 +78,10 @@ Choose one of the available modes:
 
 friends
 or
-
-```text
 moons
 `
 
 ---
-
 ## Output
 
 The program generates the following visualizations:
